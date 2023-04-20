@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dectanim",
+  "name": "WoA_art_anom",
+  "description": "Adds artifacts and detector",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Quark"],
+  "credits": "Yes",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

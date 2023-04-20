@@ -1,0 +1,5 @@
+{
+  "loader": "forge:obj",
+  "model": "dectanim:models/item/artifact.obj",
+  "flip-v": true
+}
